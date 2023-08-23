@@ -1,0 +1,97 @@
+.steps_list{
+    
+    background-image: url("./images/graphic.png");
+    background-repeat: no-repeat;
+    width: 250px;
+    height:265px;
+    align-items:stretch;
+    justify-content: flex-start;
+    margin-top: 0;
+    margin-left: 29%;
+    border-top: 20%;
+    background-color: rgb(65, 65, 175);
+    border-radius: 5%;
+    
+    
+}
+
+
+
+.circle1{
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    padding: 3px;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    font: 24px ;
+
+      }
+
+.circle2{
+        margin-top:10px;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        padding: 1px;
+        border: 1px solid white;
+        color: white;
+        text-align: center;
+        font: 24px ;
+    
+          }
+
+.circle3{
+        margin-top: 10px;
+        border-radius: 50%;
+        width: 24px;
+        height: 24px;
+        padding: 3px;
+        border: 1px solid white;
+        color: white;
+        text-align: center;
+        font: 24px ;
+        
+              }
+
+
+.circle4{
+        margin-top: 10px;
+        width: 24px;
+        height: 24px;
+        padding: 3px;
+        border: 1px solid white;
+        color: white;
+        text-align: center;
+        font: 24px ;
+        border-radius: 50%;
+    
+                  }
+
+
+
+
+body{
+    justify-content: center;
+    
+    background-color: lightgray;
+    
+    
+    
+}
+
+ul{
+    list-style: none;
+}
+.user_info{
+    border-radius: 5%;
+    margin-bottom: 20%;
+    margin-right: 20%;
+    float: right;
+    background-color: white;
+}
+
+button{background-color:darkblue;
+color: white;
+border-radius: 10px;}
