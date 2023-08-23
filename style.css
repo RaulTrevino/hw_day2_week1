@@ -1,5 +1,5 @@
 .steps_list{
-    
+    float: left;
     background-image: url("./images/graphic.png");
     background-repeat: no-repeat;
     width: 250px;
@@ -9,11 +9,11 @@
     margin-top: 0;
     margin-left: 29%;
     border-top: 20%;
-    background-color: rgb(65, 65, 175);
-    border-radius: 5%;
+    background-color: rgb(62, 62, 169);
+    border-radius: 5%;}
     
     
-}
+
 
 
 
@@ -26,8 +26,7 @@
     color: white;
     text-align: center;
     font: 24px ;
-
-      }
+ }
 
 .circle2{
         margin-top:10px;
